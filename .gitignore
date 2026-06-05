@@ -13,3 +13,9 @@ Thumbs.db
 
 # Local data / calibration weights (可选：如果不想把本地标定的矩阵传上去，可以取消注释下面这行)
 # *.npy
+
+# Media files
+*.mp4
+*.mov
+*.avi
+*.mkv
